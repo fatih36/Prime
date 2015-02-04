@@ -1,5 +1,5 @@
 # Prime
 
-Bu programın amacı asal sayıları bulmaktır.
+Bu programÄ±n amacÄ± asal sayÄ±larÄ± bulmaktÄ±r.
 
 Purpose of this program is to find prime numbers.
